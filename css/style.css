@@ -1,4 +1,5 @@
 @import url('buttons.css');
+@import url('underline.css');
 
 body{
   margin: 0;
@@ -24,7 +25,7 @@ body{
   transition: transform .7s ease-in-out;
 }
 .box-img:hover {
-  transform: rotate(-20deg);
+  transform: rotate(-7deg);
 }
 .box h1{
   font-size: 40px;
