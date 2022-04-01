@@ -10,11 +10,11 @@ body{
 .box{
   width: 450px;
   background: rgba(255, 153, 0, 0.8);
-  padding: 40px;
+  padding: 30px;
   text-align: center;
   margin: auto;
   border-radius: 10px;
-  margin-top: 16px;
+  margin-top: 12px;
   color: rgb(255, 255, 255);
   font-family: 'Century Gothic',sans-serif;
 }
